@@ -31,8 +31,8 @@ export default function CurrenciesRates() {
           {
             label: "Tipo de cambio USD",
             data: dataValues, // 39 datos
-            borderColor: "blue",
-            pointBackgroundColor: "red",
+            borderColor: "brown",
+            pointBackgroundColor: "white",
             pointRadius: 5,
           },
         ],

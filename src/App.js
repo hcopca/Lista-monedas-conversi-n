@@ -9,6 +9,7 @@ function App() {
     <>
       <Router>
         <Header />
+
         <Sidebar />
         <Switch>
           <Route exact path="/:currency" component={CurrenciesRates} />
